@@ -96,4 +96,4 @@ Effective Insights — Forage (2026)
 
 ## 👩‍💻 Author
 **Ishika Verma** — Data Analyst  
-[LinkedIn](your linkedin link) | [GitHub](your github link)
+[LinkedIn](https://www.linkedin.com/in/ishika-verma-4b60bb3aa) | [GitHub](https://github.com/ishikaverma-da) 
