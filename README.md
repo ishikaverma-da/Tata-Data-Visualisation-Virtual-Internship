@@ -23,7 +23,7 @@ forecast for the next year."*
 
 
 
-![Monthly Revenue](screenshot1.png)
+![Monthly Revenue](images/question-1.jpg)
 
 
 
@@ -35,7 +35,7 @@ along with quantity sold — excluding United Kingdom."*
 
 
 
-![Top Countries](screenshot2.png)
+![Top Countries](images/question-2.jpg)
 
 
 
@@ -48,7 +48,7 @@ high-value customers."*
 
 
 
-![Top Customers](screenshot3.png)
+![Top Customers](images/question-3.jpg)
 
 
 
@@ -61,7 +61,7 @@ expansion opportunities."*
 
 
 
-![Product Demand](screenshot4.png)
+![Product Demand](images/question-1.jpg)
 
 
 
@@ -74,6 +74,14 @@ expansion opportunities."*
 - Identified seasonal trends, high-value customers and expansion regions
 
 ---
+
+
+## Project Presentation
+
+A detailed presentation summarizing the analysis, insights, 
+and recommendations is included.
+[Click here to view the project presentation](https://1drv.ms/p/c/FC376C6CA589819E/IQBCAqE41ieRRLd_0MmD7yxKAf1nlOn0d0GlwrwQIm-oho8?e=c1NzZ1)
+
 
 ## 🛠 Tools Used
 Power BI • Excel • Data Cleaning • Data Visualisation • Data Storytelling
